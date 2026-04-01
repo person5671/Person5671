@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**person5671/Person5671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Person5671</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>I'm a c++ dev I make cheat's for game's and vibe code</em>
+</p>
+
+---
+
+## I'm currently learning
+- More C++
+
+---
+
+## How to reach me
+**Discord: *person5671yt*
+
+---
+
+## 🔌 Connect with me
+<p align="center">
+  <a href="https://github.com/Person5671"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" /></a>
+  <a href="https://discord.gg/VqefCJxyDv"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" /></a>
+</p>
