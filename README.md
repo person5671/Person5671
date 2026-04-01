@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Person5671</h1>
 
 <p align="center">
-  <em>I'm a c++ dev I make cheat's for game's and vibe code</em>
+  <em>I'm a c++ dev I make cheat's for game's and I like vibe coding</em>
 </p>
 
 ---
@@ -26,4 +26,4 @@
 
 ---
 
-<img src="https://github.com/person5671/Person5671/blob/main/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2009_06_01%20PM%20-%20Copy.png" width="1200" />
+<img src="https://github.com/person5671/Person5671/blob/main/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2009_06_01%20PM%20-%20Copy.png" width="600" />
