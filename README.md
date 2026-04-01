@@ -14,7 +14,7 @@
 ---
 
 ## How to reach me
-**Discord: *person5671yt*
+- Discord: *person5671yt*
 
 ---
 
