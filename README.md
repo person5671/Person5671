@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Person5671</h1>
 
 <p align="center">
-  <em>I'm a c++ dev I make cheat's for game's and I like vibe coding</em>
+  <em>I'm a c++ dev I make cheat's for game's </em>
 </p>
 
 ---
